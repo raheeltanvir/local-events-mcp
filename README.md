@@ -62,14 +62,6 @@ Then restart Claude Desktop and start asking about events!
 
 ---
 
-## Publishing to Claude Connectors Directory
-
-1. Deploy this server to a public HTTPS URL (e.g. Railway, Render, Fly.io)
-2. Add OAuth 2.0 authentication
-3. Switch transport from `stdio` to `Streamable HTTP`
-4. Submit at: [claude.com/docs/connectors/building/submission](https://claude.com/docs/connectors/building/submission)
-
----
 
 ## Privacy Policy
 
