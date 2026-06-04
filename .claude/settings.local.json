@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(mkdir -p /Users/raheeltanvir/Documents/projects/even-finder/src)",
-      "Bash(mv /Users/raheeltanvir/Documents/projects/even-finder/index.ts /Users/raheeltanvir/Documents/projects/even-finder/src/index.ts)"
-    ]
-  }
-}
